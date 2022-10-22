@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://videogawat.github.io/sitemap.xml
+Sitemap: https://tukangmaskawin.github.io/sitemap.xml
